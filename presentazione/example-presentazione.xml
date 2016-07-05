@@ -45,7 +45,7 @@
 			<data key="nHeight">5</data>
 			<data key="nRadius">3</data>
 		</node>
-		<node id="n12">
+		<node id="n2">
 			<!-- nodo di ingresso -->
 			<data key="nType">entry</data>
 			<data key="nx">0</data>
@@ -65,7 +65,8 @@
 			<data key="weight">3</data>
 			<data key="eWidth">3</data>
 		</edge>
-
+ </graph>
+ 
 	<graph id="Behaviors">
 		<!-- comportamento -->
 		<node id="b0">
